@@ -7,18 +7,18 @@ theme:
 nav:
     - 首页: index.md
     - Windows:
-    - 1.19: Windows/1.19
-    - 
-    - 
-    - 
-    - 
-    - 
+      - 1.19: Windows/1.19
+      - 1.18: Windows/1.18
+      - 1.17: Windows/1.17
+      - 1.16: Windows/1.16
+      - 1.14: Windows/1.14
+      - 1.13: Windows/1.13
     - Android: 
-    - 1.19: Android/1.19
-    - 
-    - 
-    - 
-    - 
+      - 1.19: Android/1.19
+      - 1.18: Android/1.18
+      - 1.17: Android/1.17
+      - 1.16: Android/1.16
+      - 1.14: Android/1.14
 copyright: Copyright &copy; 2021 - 2022 xiaoioi
 extra:
   generator: false
