@@ -1,0 +1,17 @@
+site_name: Minecraft m 版本库
+theme:
+  name: material
+  language: zh
+  palette:
+    primary: amber
+nav:
+    - 首页: index.md
+    - 安卓: Android
+    - Windows: Windows
+copyright: Copyright &copy; 2021 - 2022 xiaoioi
+extra:
+  generator: false
+markdown_extensions:
+  - attr_list
+# Repository
+repo_url: https://github.com/xiaoioi/minecraftfawm/
