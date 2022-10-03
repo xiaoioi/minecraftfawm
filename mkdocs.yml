@@ -6,8 +6,8 @@ theme:
     primary: amber
 nav:
     - 首页: index.md
-    - 安卓: Android
-    - Windows: Windows
+    - Windows: Windows/
+    - Android: Android/
 copyright: Copyright &copy; 2021 - 2022 xiaoioi
 extra:
   generator: false
