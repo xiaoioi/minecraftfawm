@@ -6,8 +6,19 @@ theme:
     primary: amber
 nav:
     - 首页: index.md
-    - Windows: Windows/
-    - Android: Android/
+    - Windows:
+    - 1.19: Windows/1.19
+    - 
+    - 
+    - 
+    - 
+    - 
+    - Android: 
+    - 1.19: Android/1.19
+    - 
+    - 
+    - 
+    - 
 copyright: Copyright &copy; 2021 - 2022 xiaoioi
 extra:
   generator: false
